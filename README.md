@@ -3,18 +3,23 @@
 ---
 
 ## About Me  
- <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1053/1053244.png" width="150" alt="Developer Avatar">
-</p>
 
-I am currently a first-year engineering student in **"Sécurité IT et Confiance Numérique"** at the *École Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données* in Taroudant.  
 
-I am passionate about **cybersecurity** and aim to develop expertise in securing digital infrastructures and information systems to protect data and networks from potential threats.  
+<img src="https://raw.githubusercontent.com/amine-CS96/amine-CS96/refs/heads/main/assests/avatar.webp" width="333" alt="Developer Avatar" align="left" style="margin-right: 15px; border-radius: 8px; margin-top: 0px ;">
 
-In addition to my interest in cybersecurity, I am also engaged in **computer programming** and **web development**, which I consider essential tools for building robust and secure digital solutions.  
+ 
+I am currently a first-year engineering student in **"Sécurité IT et Confiance Numérique"** at the *École Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données* in Taroudant.
 
-I am driven to explore **innovative and secure approaches** in cybersecurity and look forward to collaborating with professionals to deliver reliable, efficient, and secure systems.  
+I am passionate about **cybersecurity** and aim to develop expertise in securing digital infrastructures and information systems to protect data and networks from potential threats.
 
+
+
+In addition to my interest in cybersecurity, I am also engaged in **computer programming** and **web development**, which I consider essential tools for building robust and secure digital solutions.
+
+I am driven to explore **innovative and secure approaches** in cybersecurity and look forward to collaborating with professionals to deliver reliable, efficient, and secure systems.
+
+ <br clear="all" />
+ 
 ---
 
 ## 🛠 Programming Languages & Tools  
