@@ -31,11 +31,6 @@ I am driven to explore **innovative and secure approaches** in cybersecurity and
 
 ---
 
-## 🚀 What I’m working on  
-
-- **SEO Audit Tool** — A platform to audit SEO performance and security headers of websites
----
-
 ## 📫 Contact  
 
 - **Portfolio**: [amineelharrab.netlify.app](https://amineelharrab.netlify.app)  
